@@ -9,4 +9,4 @@
 [Redis 哨兵部署和运维](https://github.com/YellowBull/Redis/blob/master/Redis-Sentinel.md)<br/>
 [Redis 集群](https://github.com/YellowBull/Redis/blob/master/Redis-Cluster.md)<br/>
 [Redis 缓存优化](https://github.com/YellowBull/Redis/blob/master/Redis-Cache.md)<br/>
-[Redis 面试题](https://github.com/YellowBull/Redis/edit/master/Redis-%E9%9D%A2%E8%AF%95%E9%A2%98)
+[Redis 面试题](https://github.com/YellowBull/Redis/blob/master/Redis-%E9%9D%A2%E8%AF%95%E9%A2%98.md)
